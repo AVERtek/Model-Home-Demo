@@ -1,2 +1,2 @@
-# Apartment
-AR Apartment
+# Model-Home-Demo
+AR Model Home
